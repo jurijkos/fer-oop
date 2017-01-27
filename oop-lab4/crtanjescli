@@ -1,0 +1,3 @@
+#!/bin/bash
+javac -d bin -cp lib/picture.jar  src/hr/fer/oop/lab4/prob1/*.java 
+java -cp lib/picture.jar:bin hr.fer.oop.lab4.prob1.Demonstration

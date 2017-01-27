@@ -1,0 +1,11 @@
+Jasna 5
+Ante 5
+Jasna 4
+Stjepan 3
+Ante 5
+Stjepan 4
+Jasna 5
+Ante 3
+Jasna 4
+Stjepan 4
+KRAJ
